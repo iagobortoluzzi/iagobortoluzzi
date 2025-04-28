@@ -16,10 +16,6 @@ _**Software Developer | Backend**_
     <a href="https://github.com/Nescafe07"><img height="150em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Nescafe07&layout=compact&theme=algolia></a>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nescafe07&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" alt="GitHub Profile Trophies"/>
-</div>
-
 #
 
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTMXKLqckmkpJZLqXTvVDFXdBTvPqVZqGMVhLWXnJnrChFDTvGBfmJZrHDflRSMFfSDtlB"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
