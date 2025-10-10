@@ -12,8 +12,8 @@ _**Software Developer | Backend**_
 ### 🚀 Trilhando o caminho de um Futuro Programador! 
 
 <div>
-    <a href="https://github.com/Nescafe07"><img height="150em" src=https://github-readme-stats.vercel.app/api?username=Nescafe07&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=algolia></a>
-    <a href="https://github.com/Nescafe07"><img height="150em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Nescafe07&layout=compact&theme=algolia></a>
+    <a href="https://github.com/iagobortoluzzi"><img height="150em" src=https://github-readme-stats.vercel.app/api?username=Nescafe07&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=algolia></a>
+    <a href="https://github.com/iagobortoluzzi"><img height="150em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Nescafe07&layout=compact&theme=algolia></a>
 </div>
 
 #
