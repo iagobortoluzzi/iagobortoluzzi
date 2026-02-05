@@ -11,13 +11,6 @@ _**Software Developer | Backend**_
 
 ### 🚀 Trilhando o caminho de um Futuro Programador! 
 
-<div>
-    <a href="https://github.com/iagobortoluzzi"><img height="150em" src=https://github-readme-stats.vercel.app/api?username=iagobortoluzzi&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=algolia></a>
-    <a href="https://github.com/iagobortoluzzi"><img height="150em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=iagobortoluzzi&layout=compact&theme=algolia></a>
-</div>
-
-#
-
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTMXKLqckmkpJZLqXTvVDFXdBTvPqVZqGMVhLWXnJnrChFDTvGBfmJZrHDflRSMFfSDtlB"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/iago-bortoluzzi-360a17286/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
